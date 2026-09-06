@@ -34,8 +34,6 @@ A full-stack developer with a keen interest in front-end development who loves b
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B" alt="Vitest" />
-  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
   <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="Cypress" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
@@ -44,15 +42,10 @@ A full-stack developer with a keen interest in front-end development who loves b
 </p>
 
 <h3 align="center">GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=ejeee&bg_color=0B192C&title_color=4A709C&text_color=E2E8F0&icon_color=2563EB&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ejeee&bg_color=0B192C&title_color=4A709C&text_color=E2E8F0&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ejeee&background=0B192C&ring=2563EB&fire=2563EB&currStreakNum=4A709C&currStreakLabel=4A709C&sideNums=E2E8F0&sideLabels=E2E8F0&dates=94A3B8&hide_border=true" alt="Current Streak" />
-</p>
-
 <div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ejeee&bg_color=0B192C&title_color=4A709C&text_color=E2E8F0&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=ejeee&background=0B192C&ring=2563EB&fire=2563EB&currStreakNum=4A709C&currStreakLabel=4A709C&sideNums=E2E8F0&sideLabels=E2E8F0&dates=94A3B8&hide_border=true" height="165" alt="Current Streak" />
+  <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
