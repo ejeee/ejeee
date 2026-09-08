@@ -8,7 +8,7 @@ A full-stack developer with a keen interest in front-end development who loves b
 </p>
 
 <p align="center">
-  <a href="https://kindofjey.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-kindofjey.vercel.app-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B192C" alt="Portfolio" /></a>
+  <!-- <a href="https://kindofjey.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-kindofjey.vercel.app-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B192C" alt="Portfolio" /></a> -->
   <a href="mailto:marchandabalqis@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1E40AF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B192C" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/marchandabalqis/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B192C" alt="LinkedIn" /></a>
 </p>
