@@ -1,48 +1,50 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=4A709C&center=true&vCenter=true&width=435&height=50&repeat=false&lines=Hello%2C+I%27m+Jey" alt="Hello, I'm Jey" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=203A60&height=1&section=header" width="100%" alt="Navy divider" />
-</div>
-
 <p align="center">
-A full-stack developer with a keen interest in front-end development who loves building clean, responsive, and user-friendly web applications with React and Next.js, while continuously learning and exploring new technologies.
-</p>
-
-<p align="center">
-  <!-- <a href="https://kindofjey.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-kindofjey.vercel.app-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B192C" alt="Portfolio" /></a> -->
+  <a href="https://kindofjey.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-kindofjey.vercel.app-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B192C" alt="Portfolio" /></a>
   <a href="mailto:marchandabalqis@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1E40AF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B192C" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/marchandabalqis/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B192C" alt="LinkedIn" /></a>
 </p>
 
+<h2 align="center">Tech Stack</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ejeee&style=for-the-badge&color=1E3A8A&labelColor=0B192C&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Go-111827?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Dart-111827?style=for-the-badge&logo=dart&logoColor=0175C2" alt="Dart" />
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Flutter-111827?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Radix_UI-111827?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Vitest-111827?style=for-the-badge&logo=vitest&logoColor=FCC72B" alt="Vitest" />
+  <img src="https://img.shields.io/badge/Jest-111827?style=for-the-badge&logo=jest&logoColor=C21325" alt="Jest" />
+  <img src="https://img.shields.io/badge/Cypress-111827?style=for-the-badge&logo=cypress&logoColor=69D3A7" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Notion-111827?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
-<h3 align="center">Tech Stack</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-</p>
-
-<h3 align="center">GitHub Stats</h3>
+<h2 align="center">GitHub Stats</h2>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="./assets/github-streak.svg" alt="GitHub contribution streak" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ejeee&bg_color=00000000&title_color=4A709C&text_color=E2E8F0&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=495" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ejeee&bg_color=0B192C&title_color=4A709C&text_color=E2E8F0&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=ejeee&background=0B192C&ring=2563EB&fire=2563EB&currStreakNum=4A709C&currStreakLabel=4A709C&sideNums=E2E8F0&sideLabels=E2E8F0&dates=94A3B8&hide_border=true" height="165" alt="Current Streak" />
-  <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-    <img alt="github-snake" src="github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" width="100%" />
   </picture>
 </div>
