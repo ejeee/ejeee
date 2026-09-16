@@ -33,6 +33,6 @@ jobs:
       - name: Commit & Push files
         uses: EndBug/add-and-commit@v9
         with:
-          message: "battle: ${{ steps.date.outputs.today }} [skip ci]"
+          message: "battle: defense result ${{ steps.date.outputs.today }} [skip ci]"
           add: "dist state.json"
 
