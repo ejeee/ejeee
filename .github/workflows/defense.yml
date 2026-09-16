@@ -26,14 +26,13 @@ jobs:
       - name: Fight tonight's siege
         uses: rim95dev/contribution-defense@v1
 
-      - name: Commit battle result
-        run: |
-          git config user.name "defense-bot"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add dist state.json
-          if git diff --staged --quiet; then
-            echo "no changes"
-          else
-            git commit -m "battle: $(date -u +%F) [skip ci]"
-            git push
-          fi
+      - name: Get current date
+        id: date
+        run: echo "today=$(date -u +%F)" >> $GITHUB_OUTPUT
+
+      - name: Commit & Push files
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "battle: ${{ steps.date.outputs.today }} [skip ci]"
+          add: "dist state.json"
+
