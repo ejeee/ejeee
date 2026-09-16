@@ -27,10 +27,12 @@ jobs:
           path: assets/github-streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit streak stats
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/github-streak.svg
-          git commit -m "Update streak stats" || exit 0
-          git push
+      - name: Get current date
+        id: date
+        run: echo "today=$(date -u +%F)" >> $GITHUB_OUTPUT
+
+      - name: Commit & Push files
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Update streak stats: ${{ steps.date.outputs.today }} [skip ci]"
+          add: "assets/github-streak.svg"
