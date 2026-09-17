@@ -2,7 +2,7 @@ name: Generate Streak Stats
 
 on:
   schedule:
-    - cron: "0 2 * * *" # Update otomatis setiap hari jam 2 pagi
+  - cron: "0 9 * * *" # Jam 09:00 UTC / Jam 16:00 WIB
   workflow_dispatch:
   push:
     branches:
