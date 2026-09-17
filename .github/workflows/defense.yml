@@ -2,7 +2,7 @@ name: Contribution Defense
 
 on:
   schedule:
-    - cron: "0 17 * * *" # Berjalan otomatis setiap jam 00:00 WIB (tengah malam)
+  - cron: "0 8 * * *" # Jam 08:00 UTC / Jam 15:00 WIB
   workflow_dispatch:
   push:
     branches: [main]
