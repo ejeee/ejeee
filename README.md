@@ -37,7 +37,7 @@
       <img src="./assets/github-streak.svg" alt="GitHub contribution streak" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ejeee&bg_color=00000000&title_color=4A709C&text_color=E2E8F0&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=495" alt="Top Languages" width="100%" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ejeee&bg_color=00000000&title_color=4A709C&text_color=E2E8F0&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=495" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
